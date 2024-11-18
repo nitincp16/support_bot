@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+openai
+faiss-cpu
+numpy
+supabase
+python-dotenv
+requests
+mailersend
+emails
+twilio

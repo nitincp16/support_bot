@@ -1,0 +1,217 @@
+TThe following Terms of Service govern your use of the Lawyer Desk Services, unless your usage is bound by separate terms of service agreed upon between you and LawyerDesk Advocacy Pvt Ltd.
+
+Lawyerdesk Advocacy Pvt Ltd. (“Lawyer Desk,” “we,” “us,” or “our”) This document delineates the Terms of Service (the “Terms”) governing your utilization of all services offered by Lawyer Desk, encompassing its brands such as Advocase, Law Book, Prajalok, Case Work, Moot Court, and Indian School of Law, along with any other associated brands. For the purposes of this agreement, the term “Lawyer Desk” also encompasses its brands and services. These services include our artificial intelligence technologies (“AI Services”), websites, applications, add-ons, plug-ins, components, functionality, and programs, as well as any other services specified in mutually executed order forms (collectively referred to as the “Lawyer Desk Services” or “Services”). The “Subscription Agreement” comprises these Terms, any applicable price schedule, and any order form(s) for the Lawyer Desk Services mutually agreed upon by Lawyer Desk and you (“you” or “User”). These Terms incorporate the Lawyer Desk Privacy Policy and any other documents that explicitly reference these Terms.
+
+By clicking the “I agree that by signing up or logging in, I’m bound to Privacy Policy, Terms of Service, Acceptable Use Policy, Sub Processor List, and Security practices.” button, taking an action to indicate acceptance, or by using any of the Lawyer Desk Services, with or without registration, you consent to these Terms with Lawyer Desk. If you are agreeing to these Terms on behalf of a company or other legal entity, you affirm that you are an authorized representative of such entity.  If you lack the legal authority to agree to these Terms on behalf of a company or other legal entity, or if you do not agree with these Terms, please refrain from accepting, accessing, or using the Services in any manner.
+
+
+Despite any other provisions in these Terms, access to the Services is provided on an "as-is" basis without any representations, warranties, and/or conditions of any kind. Any data or content uploaded to the Services by you may be permanently lost upon expiry of the Trial period. Should you continue to use the Services after the conclusion of the Evaluation period, you acknowledge that these Terms will continue to govern your ongoing use of those Services.. 
+
+You are prohibited from accessing the Services if you are a direct competitor to Lawyer Desk, or if you monitor the functionality, performance, or availability of the Services for any competitive purposes.
+
+PLEASE READ THE TERMS CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. THIS AGREEMENT INCLUDES A MANDATORY ARBITRATION AGREEMENT IN SECTION 13(G) AND A CLASS ACTION/JURY TRIAL WAIVER PROVISION IN SECTION 13(H). THESE REQUIRE, WITH ONLY SPECIFIED EXCEPTIONS OR UNLESS YOU OPT OUT PURSUANT TO THE PROVIDED INSTRUCTIONS, THE EXCLUSIVE USE OF FINAL AND BINDING ARBITRATION ON AN INDIVIDUAL BASIS ONLY TO RESOLVE DISPUTES. THIS PRECLUDES JURY TRIALS OR CLASS, COLLECTIVE, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTIONS OR PROCEEDINGS.
+
+
+
+1. Services, Restrictions and Customer Obligations
+
+(a) Subject to your compliance with these Terms, Lawyer Desk grants you and your Authorized Users (defined below) a nonexclusive, nontransferable, nonsublicensable, and revocable right to use and access the Services in accordance with documentation, all applicable local, state, national, and international laws, rules, and regulations, and solely for your internal business purposes. To use our Service, you must be at least 18 years of age. You represent and warrant that you meet the applicable age requirements and are competent to agree to these Terms.
+
+
+(b) Unless prohibited by law, you agree not to engage in, and not to assist, permit, or enable any third party to engage in, any of the following:
+
+disassemble, reverse engineer, decode or decompile any part of the Services;
+
+utilize any robot, spider, scraper, data mining tool, data gathering or extraction tool, or any other automated means, to access, collect, copy, or record the Services.
+
+copy, rent, lease, sell, loan, transfer, assign, sublicense, resell, distribute, modify, alter, or create derivative works of any part of the Services or any of our Intellectual Property (defined below).
+
+use the Services in any manner that impacts (i) the stability of our servers, (ii) the operation or performance of the Services or any User’s use of the Services, or (iii) the behavior of other applications using the Services.
+
+use the Services in any manner or for any purpose that (i) violates or promotes the violation of any applicable law, regulation, legal requirement, contractual obligation, or right of any person, including but not limited to intellectual property rights, rights of privacy, or rights of personality, (ii) is fraudulent, false, deceptive, or defamatory, (iii) promotes hatred, violence, or harm against any individual or group, or (iv) otherwise may be harmful or objectionable (in our sole discretion) to us, our providers, our suppliers, our users, or any other third party. 
+
+use or display the Services in competition with us, to develop competing products or services, for benchmarking or competitive analysis of the Services, or otherwise to our detriment or disadvantage. 
+
+attempt to interfere with, compromise the system integrity or security of, or decipher any transmissions to or from, the servers running the Services. 
+
+transmit viruses, worms or other software agents through the Services; 
+
+impersonate another person or misrepresent your affiliation with a person or entity, hide or attempt to hide your identity, or otherwise use the Services for any invasive or fraudulent purpose. 
+
+share passwords or authentication credentials for the Services, or otherwise circumvent the measures we may use to prevent or restrict access to the Services, or enforce limitations on the use of the Services; or 
+
+identify or refer to us or the Services in a manner that could reasonably imply an endorsement, relationship, or affiliation with or sponsorship between you (or a third party) and us, without our prior express written consent.
+
+2. Registration
+
+To access and utilize the Lawyer Desk Services, you will need to register an account with Lawyer Desk by completing a registration form and selecting a user ID and password. By registering an account with Lawyer Desk, you agree to: (a) provide true, accurate, current, and complete information about yourself as prompted by the Lawyer Desk Service’s registration form (such information being the “Registration Data”), and (b) maintain and promptly update the Registration Data to ensure it remains true, accurate, current, and complete. If you provide any information that is untrue, inaccurate, not current, or incomplete, or if we have reason to suspect that such information is untrue, inaccurate, not current, or incomplete, we reserve the right to suspend or terminate your account and deny any and all current or future use of the Lawyer Desk Services (or any portion thereof).
+
+You may not authorize any third party to access or use the Lawyer Desk Services on your behalf. You are responsible for maintaining the confidentiality of your user ID and password and are fully accountable for all activities that take place under your account. You consent to promptly inform Lawyer Desk of any unauthorized use of your account or any other security breach. Lawyer Desk cannot and will not be held liable for any loss or damage arising from any unauthorized use of your account. By providing us with your email address, you consent to receive all necessary notices electronically, to that email address.
+
+By providing your Registration Data, which may include an email address, address, mobile telephone number, and/or telephone number, or by creating an account in any other manner, you electronically consent to receive marketing or advertising communications, including email or mobile push notices, from Lawyer Desk and third parties. These communications may include updates to features of the Services and special offers. If you prefer not to receive such messages, you may opt out or adjust your preferences by contacting the Lawyer Desk Services support team at support@lawyerdesk.ai. You can also opt out by clicking the unsubscribe link within each marketing or advertising email message. Opting out of marketing communications will not prevent you from receiving Services-related notices.
+
+3. Term and Termination
+
+These Terms will begin when you first use our Services and will remain in effect until terminated by either party in accordance with the provisions outlined herein. Either party may terminate these Terms for convenience at any time by providing written notice to the other party, subject to the terms and conditions specified in Section 6(C) below. Lawyer Desk may notify the User of termination via email to the contact information provided in your Registration Data. Alternatively, the User may notify Lawyer Desk of termination by reaching out to the Lawyer Desk Services support team at support@lawyerdesk.ai. 
+
+If, in Lawyer Desk’s sole judgment, you fail to comply with any provision of these Terms, or if Lawyer Desk suspects that you have failed to comply, Lawyer Desk may terminate these Terms at any time without notice. It is clarified that any such termination will result in the termination of any and all of your existing Subscription Agreements.  
+
+The following provisions will endure beyond any termination of these Terms: Section 3 (“Term and Termination”), Section 4 (“Intellectual Property Rights”) (except as expressly provided therein), Section 5 (“Confidentiality”), Section 6 (“Fees”), Section 7(A) (“Privacy”), Section 8 (“Representations & Warranties”), Section 9 (“Liability”), Section 10 (“Changes to Agreement”), Section 11 (“Inactivity or Cancellation or Termination of Subscription”), and Section 13 (“General Provisions”).
+4. Intellectual Property Rights
+
+A. User Data and Content
+These Terms do not confer upon either party any rights, implied or otherwise, to the other’s content or intellectual property, unless expressly stated otherwise herein. In the relationship between the parties, User retains all intellectual property rights in User Content (defined below), while Lawyer Desk retains all intellectual property rights in and to the Services, including software, products, support, documentation, aggregated and statistical information, and related works, encompassing any modifications and derivative works thereof.
+
+“User Content” refers to any and all information, content, and data that a User submits to, uploads to, or utilizes with the Services. Lawyer Desk does not assert ownership over your User Content. You are solely accountable for your User Content and assume all associated risks. You confirm and warrant that your User Content complies with all User obligations as detailed in Section 1(b) or elsewhere in these Terms and does not contravene any law or infringe upon any rights of any third party, including but not limited to intellectual property rights and privacy rights. We bear no responsibility and accept no liability for any of your User Content. 
+
+B. License to Lawyer Desk
+You grant, and you confirm and warrant that you possess all necessary rights to grant, to Lawyer Desk an irrevocable, perpetual, transferable, sublicensable (through multiple tiers), fully paid, royalty-free, and worldwide right and license to use, copy, store, modify, distribute, and display your User Content: (a) to maintain and provide the Services; (b) to enhance our products and services and to generate aggregated and de-identified information; and (c) to carry out such other actions as delineated in our Privacy Policy or as authorized by you in connection with your use of the Services.
+
+C. Feedback
+Should the User furnish Lawyer Desk with any suggestions, ideas, improvements, or other feedback regarding any facet of the Services (“Feedback”), Lawyer Desk shall possess such Feedback without owing any compensation to the User, attribution of any sort, or any other obligation to the User.
+
+5. Confidentiality
+
+The parties acknowledge and agree that each party (the “Receiving Party”) may have access to certain confidential information (“Confidential Information”) of the other party (the “Disclosing Party”). “Confidential Information” encompasses all information provided by the Disclosing Party to the Receiving Party herein that is (i) proprietary and/or non-public information related to the business activities of the Disclosing Party, its subsidiaries, and its affiliates, including any business plans, strategy, pricing, or financial information; (ii) the terms of any Subscription Agreement; and/or (iii) any other information designated as confidential by the Disclosing Party. Confidential Information of Lawyer Desk also includes the Services, and Confidential Information of the User also includes the Drafts and Reports. Confidential Information does not include any information that is or was, at the time of the disclosure: (a) generally known or available to the public; (b) rightfully disclosed to the Receiving Party by a third party; (c) already in the possession of the Receiving Party prior to the date of receipt from the Disclosing Party without restriction; or (d) independently developed by the Receiving Party without reference to or use of the Disclosing Party’s Confidential Information, provided in each case that such information was not obtained by the Receiving Party as a result of any unauthorized or wrongful act or omission, or breach of this Agreement, or breach of any legal, ethical, or fiduciary obligation owed to the Disclosing Party.
+
+The Receiving Party shall, at all times: (1) utilize the same standard of care to safeguard the Confidential Information as it employs to protect its own confidential information of a similar nature, but not less than a commercially reasonable standard of care; (2) refrain from utilizing the Disclosing Party’s Confidential Information for purposes other than those permitted under this Agreement; and (3) refrain from disclosing, distributing, or disseminating the Confidential Information to any third party, except as allowed by this Agreement or to the extent required to comply with applicable law.
+
+6. Fees
+
+     A. Subscription Fees 
+We may offer certain parts of the Services under automatically renewing subscriptions, known as "Subscriptions," for which recurring fees, termed "Subscription Fees," are charged. The availability of specific portions of the Services on a subscription basis is subject to our discretion, and we reserve the right to add or modify Subscription Fees at our discretion. Changes to Subscription Fees will be reflected in our online Subscription Terms, with such changes taking effect in the Subscription Term following notification as outlined in this Agreement. However, if we have specified a particular duration and Subscription Fees for your use of the Services, those Subscription Fees will remain applicable for that duration. Your Subscription will automatically renew at the end of each term specified in your Subscription Agreement for subsequent terms of the same duration, unless you cancel your Subscription or it is suspended, discontinued, or terminated as per these Terms.
+
+    B. Payments
+When you subscribe to the Services, you accept that we and/or our third-party payment processors are authorized to charge you for the following: (i) the Subscription Fees specified in the relevant Subscription Agreement; (ii) sales, use, value-added, withholding, or similar taxes or levies, whether domestic or foreign, excluding taxes based on Lawyer Desk's income; and (iii) any other charges incurred in connection with your purchase and use of the Services. You understand and agree that the billed amount may vary due to promotional offers, changes in Subscription Fees as per these Terms, and/or changes in applicable taxes, and you authorize us to charge your payment method for the adjusted amounts. 
+
+Unless otherwise stated in an applicable Subscription Agreement, all Subscription Fees are immediately due and payable in advance at the beginning of each Subscription Term. You are responsible for paying all Subscription Fees using a valid and accepted payment method such as credit card, debit card, or any other specified payment method. You must ensure that your payment method is current and valid. By initiating a payment transaction, you authorize us to share your payment information with third parties to facilitate the transaction and charge your payment method in Indian Rupees. Currently, we utilize RazorPay as our third-party payment processor, and by using our Services, you agree to abide by RazorPay's Services Agreement, accessible at https://razorpay.com/agreement/. If your payment fails to be successfully processed for any reason within three (3) days of initiation, we reserve the right to cancel or suspend your Subscription and access to the Services at our discretion.
+
+     C. Cancellation Procedure 
+You can cancel your Subscription(s) at any time, but you're responsible for the Subscription Fees until the Subscription ends at the term's conclusion. To cancel, notify us at least three (3) days before the next Subscription Term starts using the Services' functionalities or by reaching out to us at support@lawyerdesk.ai. You will continue to have access to the Services through the end of the Subscription Term. 
+
+     D. No Refunds
+SUBSCRIPTION FEES ARE NON-REFUNDABLE EXCEPT AS OTHERWISE EXPRESSLY AGREED IN WRITING. YOU ACKNOWLEDGE AND AGREE THAT YOU WILL NOT BE REFUNDED FOR ANY UNUSED TIME IN YOUR SUBSCRIPTION TERM OR ANY PRE-PAYMENTS MADE FOR SERVICES IN THE EVENT THAT: (I) YOU CANCEL OR TERMINATE YOUR SUBSCRIPTION OR (II) WE SUSPEND OR TERMINATE YOUR SUBSCRIPTION OR THIS AGREEMENT FOR YOUR BREACH OF THESE TERMS.
+
+7. Privacy and Security
+
+
+    A. Privacy. 
+Users access the Services through the Lawyer Desk website, owned and operated by Lawyer Desk. Therefore, users' interaction with the Services and website, as well as any data collected, are governed by the Privacy Policy, accessible here. Users have the option to opt out of data collection and cookies as outlined in the Privacy Policy. Additionally, users agree to receive operational announcements from Lawyer Desk regarding the Services, as well as occasional marketing and other non-critical Service-related communications.
+
+    B. Security of User Content
+Without limiting the following, Lawyer Desk is committed to maintaining commercially reasonable physical, technical, and administrative safeguards to protect the security, confidentiality, and integrity of User Content. Users acknowledge that the structure of the systems used with the Services may allow a limited number of Lawyer Desk personnel to access User Content. However, Lawyer Desk personnel will only access User Content in accordance with the confidentiality restrictions outlined in Section 5 ("Confidentiality") and with user consent, or when reasonably necessary: (i) to perform the Services on behalf of the user; (ii) to investigate or address system errors or enhance the Services; (iii) to respond to authorized information requests from law enforcement or governmental authorities; (iv) to comply with applicable laws, regulations, subpoenas, or court orders; (v) to investigate and prevent security threats, fraud, or other illegal activities; (vi) to verify compliance with the terms herein; or (vii) to enforce or protect Lawyer Desk's rights and properties.
+
+
+8. Representations & Warranties
+
+Each party represents and warrants that these Terms constitute a valid and binding obligation and are enforceable against them in accordance with the terms herein. 
+
+A. Disclaimer
+EXCEPT FOR THE EXPRESS WARRANTIES STATED IN THIS SECTION 8, LAWYER DESK DISCLAIMS ALL OTHER REPRESENTATIONS AND WARRANTIES, WHETHER IMPLIED BY OPERATION OF LAW OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ERROR-FREE OR UNINTERRUPTED OPERATION, AND ANY REPRESENTATIONS OR WARRANTIES ARISING FROM A COURSE OF PERFORMANCE, COURSE OF DEALING, OR USAGE OF TRADE. WITHOUT LIMITING THE FOREGOING, LAWYER DESK MAKES NO WARRANTY THAT (I) THE SERVICES, INCLUDING THE LAWYER DESK TECHNOLOGY, THE REPORTS, OR ANY OTHER SERVICES OR DELIVERABLES PROVIDED HEREUNDER (COLLECTIVELY, THE “MATERIALS”) WILL MEET THE REQUIREMENTS OF USER OR OPERATE IN COMBINATION WITH ANY HARDWARE, SOFTWARE, OR DATA NOT PROVIDED BY LAWYER DESK, (II) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE MATERIALS WILL BE ACCURATE, RELIABLE, OR ERROR-FREE, OR (IV) ANY ERRORS IN THE MATERIALS WILL BE CORRECTED. THE MATERIALS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITH ALL DEFECTS. NO ORAL OR WRITTEN INFORMATION OR COMMUNICATIONS GIVEN BY LAWYER DESK, ITS EMPLOYEES, OR AGENTS WILL INCREASE THE SCOPE OF THE ABOVE WARRANTY OR CREATE ANY NEW OR ADDITIONAL WARRANTIES.
+
+THE CONTENT PROVIDED THROUGH OR IN CONNECTION WITH THE SERVICES IS DESIGNED TO PROVIDE PRACTICAL AND USEFUL INFORMATION ON THE SUBJECT MATTER COVERED. WHILE SUCH CONTENT MAY CONCERN ISSUES RELATED TO PROFESSIONAL SERVICES, SUCH CONTENT IS NOT PROFESSIONAL SERVICES ADVICE. YOU SHOULD NOT ACT OR REFRAIN FROM ACTING ON THE BASIS OF ANY CONTENT INCLUDED ON THIS SITE OR IN CONNECTION WITH THE SERVICES WITHOUT SEEKING THE ADVICE OF A COMPETENT PROFESSIONAL IN THE APPLICABLE SUBJECT MATTER. WE EXPRESSLY DISCLAIM ALL LIABILITY IN RESPECT OF ACTIONS TAKEN OR NOT TAKEN BASED ON ANY CONTENT OF OR IN CONNECTION WITH THE SERVICES. LAWYER DESK’S PROVISION OF THE SERVICES, THE MATERIALS MADE AVAILABLE ON THE SERVICES, AND ANY INFORMATION PROVIDED BY OUR REFERENCE ATTORNEYS (AND ANY OTHER LAWYER DESK REPRESENTATIVES) ARE FOR GENERAL INFORMATIONAL PURPOSES ONLY. USER ACKNOWLEDGES AND AGREES THAT THEY DO NOT, AND ARE NOT INTENDED TO, CONSTITUTE LEGAL ADVICE AND DO NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP.
+
+B. AI Services 
+You and your end users are responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of our Services. Our Services use machine learning models that generate predictions based on patterns in data. Output generated by a machine learning model is probabilistic and should be evaluated for accuracy as appropriate for your use case, including by employing human expert review of such output.
+
+9. Liability
+
+EXCEPT FOR DAMAGES ARISING FROM A PARTY’S FRAUD, WILLFUL MISCONDUCT, VIOLATION OF APPLICABLE LAW OR INFRINGEMENT, VIOLATION OR MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS OR OTHER PROPRIETARY RIGHTS OR CONFIDENTIALITY OBLIGATIONS, IN NO EVENT WILL (I) LAWYER DESK BE LIABLE FOR INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, LOSS OF REVENUES, DATA LOSS OR USAGE, OR LOSS OF OPPORTUNITIES, ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR (II) LAWYER DESK’S TOTAL LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT AND/OR THE SERVICES, REGARDLESS OF CAUSE OR THEORY OF RECOVERY, EXCEED ONE THOUSAND RUPEES (₹1000). 
+
+To the extent any liability of a party cannot be disclaimed, excluded or limited as aforesaid under applicable law, such liability shall be disclaimed, excluded and limited to the fullest extent permitted under applicable law.
+
+10. Changes to Agreement
+
+Lawyer Desk may amend these Terms from time to time by posting the revised terms of this Agreement on Lawyer Desk’s website and/or by providing written notice of such amendment to User (which notice may be provided via email to User contact listed in the Registration Data). Any revised terms of this Agreement will take effect from the date of posting or notice to User unless otherwise specified in such posting or notice. User should check Lawyer Desk’s website frequently for any such revisions. User’s continued use of the Services shall be deemed to constitute its acceptance of any such revised terms.
+
+11. Inactivity or Cancellation or Termination of Subscription
+
+Upon a prolonged period of inactivity, or any cancellation or termination of User’s Subscription to the Services, Lawyer Desk will have no obligation to maintain or provide access to User Content. If a User’s account is inactive for one hundred and twenty (120) days, Lawyer Desk reserves the right to delete or destroy all copies of User Content without providing notice, unless legally prohibited. Furthermore, Lawyer Desk reserves the right to delete or destroy all copies of User Content in accordance with its data retention policies. 
+
+Content in the normal course of operation any time after the expiry of thirty (30) days after the cancellation or termination of User’s subscription to the Services. User Content cannot be recovered once they are deleted or destroyed.
+
+12. Third Party Websites
+
+The Lawyer Desk Services may contain links to third-party websites, content providers, advertisers, services, special offers, or other events or activities that are not owned or controlled by us. We do not endorse or assume any responsibility for any of these third-party websites, materials, products, or services. If you access a third-party website from Lawyer Desk Services, you do so at your own risk, and you understand that these Terms and our Privacy Policy do not apply to your use of those sites. You relieve Lawyer Desk from any and all liability arising from your use of third-party websites, services, or content.
+
+13. General Provisions
+
+
+    A. Relationship of the Parties
+The relationship of the parties under these Terms is that of independent contractors and does not create an agency, partnership, franchise, joint venture, fiduciary, or employment relationship between the parties.
+
+
+    B. Force Majeure
+Neither party shall be in default if its failure to perform or delay in performing any obligation under these Terms (other than payment obligations) is caused by any condition beyond the party’s reasonable control, including but not limited to governmental action, acts of terrorism, earthquakes, fires, floods, or other acts of God, labor conditions, power failures, equipment failures, and Internet disturbances.
+
+
+    C. Assignment
+Neither party may assign this Agreement or any Subscription, in whole or in part, without the other party’s prior written consent, not to be unreasonably withheld. However, Lawyer Desk may assign this Agreement without User’s consent to any entity that acquires all or substantially all of the business or assets of Lawyer Desk related to the Services, whether by merger, reorganization, acquisition, sale, operation of law, change in control, or otherwise. Any assignment made in conflict with this provision shall be void. These Terms are binding upon and will inure to the benefits of each of the parties and their respective successors and assigns. Nothing in these Terms is intended or shall be construed to give any person, other than the parties hereto, their successors, and permitted assigns, any legal or equitable right, remedy, or claim under or in respect to these Terms.
+
+
+    D. Waiver
+No failure or delay by either party in exercising any right under these Terms shall constitute a waiver of that right unless expressly acknowledged and agreed to by both parties in writing. A waiver of rights under these Terms will not be effective unless it is in writing and signed by an authorized representative of the party that is waiving the rights. Other than as expressly stated herein, the remedies provided herein are in addition to, and not exclusive of, any other remedies of a party at law or in equity.
+
+
+    E. Execution; Severability
+Except as stated in Section 13(G), if any provision of these Terms, or portion thereof, is found to be invalid, unlawful, or unenforceable to any extent, such provision shall be replaced with another provision consistent with the purpose and intent of these Terms, and the remaining provisions of these Terms shall remain in effect. In the case of any conflict or inconsistency between the provisions of your Subscription Agreement and the provisions of these Terms, these Terms shall govern.
+
+
+    F. Governing Law and Jurisdiction
+You agree that: (i) the Services shall be deemed solely based in India; and (ii) the Services shall be deemed a passive one that does not give rise to personal jurisdiction over Lawyer Desk, either specific or general, in jurisdictions other than India. These Terms shall be governed by the internal substantive laws of India, without respect to its conflict of laws principles. Notwithstanding the preceding sentences with respect to the substantive law, any arbitration conducted pursuant to these Terms shall be governed by the Indian Arbitration and Conciliation Act, 1996. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. You agree to submit to the jurisdiction of the courts located in India for any actions for which we retain the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation or violation of our copyrights, trademarks, trade secrets, patents, or other intellectual property or proprietary rights, as set forth in the arbitration provision below, including any provisional relief required to prevent irreparable harm. You agree that Hyderabad, India is the proper forum for any appeals of an arbitration award or for trial court proceedings in the event that the arbitration provision below is found to be unenforceable.
+
+
+    G. Arbitration
+READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES THE PARTIES TO ARBITRATE THEIR DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US. This Section 13(G) (the “Arbitration Agreement”) This provision governs any dispute, controversy, or claim between you and us, whether directly or indirectly related to: (a) these Terms, covering aspects such as their formation, existence, breach, termination, enforcement, interpretation, validity, or enforceability; (b) access to or use of the Services, encompassing the receipt of any advertising, marketing, or other communications from us; (c) any transactions conducted through, by, or using the Services; or (d) any other aspect of your relationship or transactions with us, whether directly or indirectly, as a user or consumer ("Claim" or collectively, "Claims"). The Arbitration Agreement applies to all Claims, irrespective of whether they arose or were asserted before or after your consent to these Terms. 
+
+For any Claim, you agree to first contact us at support@lawyerdesk.ai and attempt to resolve the dispute with us informally. In the unlikely event that we have not been able to resolve a Claim after sixty (60) days, we each agree to resolve any Claim through binding arbitration, except as provided herein. In the event of any conflict between the Rules and this Arbitration Agreement, the Arbitration Agreement shall control. The arbitration will be conducted in the jurisdiction of our choice unless you and we agree otherwise. If you are using the Services for commercial purposes, each party will be responsible for paying any filing, administrative, and arbitrator fees in accordance with persisting rules, and the award rendered by the arbitrator will include costs of arbitration, reasonable attorneys' fees, and reasonable costs for expert and other witnesses. If you are an individual using the Services for non-commercial purposes: (i) you may be required to pay a fee for the initiation of your case; (ii) the award rendered by the arbitrator may include your costs of arbitration, your reasonable attorney's fees, and your reasonable costs for expert and other witnesses. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. You and we agree that the arbitrator shall have exclusive authority to resolve any disputes relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitrator shall also be responsible for determining all threshold arbitrability issues, including issues relating to whether these Terms, or any provision of these Terms, is unconscionable or illusory or any defense to arbitration, including waiver, delay, laches, unconscionability, or estoppel.
+
+NOTHING IN THIS SECTION WILL BE DEEMED AS: PREVENTING US FROM SEEKING INJUNCTIVE OR OTHER EQUITABLE RELIEF FROM THE COURTS AS NECESSARY TO PREVENT THE ACTUAL OR THREATENED INFRINGEMENT, MISAPPROPRIATION, OR VIOLATION OF OUR DATA SECURITY, INTELLECTUAL PROPERTY RIGHTS OR OTHER PROPRIETARY RIGHTS.
+
+Should any part of this Arbitration Agreement be deemed void, unenforceable, or unlawful, whether in whole or in part, such portion shall be severed. The severance of any void, unenforceable, or unlawful provision, whether in whole or in part, shall not affect the validity or enforceability of the remaining provisions of the Arbitration Agreement. The remaining provisions shall continue to be binding, and the parties' ability to compel arbitration of any remaining claims on an individual basis pursuant to the Arbitration Agreement shall remain intact. However, if the Class Action/Jury Trial Waiver is found to be void, unenforceable, or unlawful, in whole or in part, due to its potential obstruction of your ability to seek public injunctive relief, then any dispute concerning such relief (and only that relief) must be separated from arbitration and may be litigated in a civil court of competent jurisdiction. Nonetheless, all other claims for relief subject to arbitration under this Arbitration Agreement shall proceed according to its terms. The parties agree that any litigation concerning entitlement to public injunctive relief shall be suspended until the resolution of individual claims in arbitration.
+
+
+    H. Class Action/Jury Trial Waiver
+WITH REGARD TO ALL INDIVIDUALS AND ENTITIES, WHETHER THEY HAVE UTILIZED THE SERVICES FOR PERSONAL, COMMERCIAL, OR OTHER OBJECTIVES, ALL CLAIMS MUST BE PURSUED INDIVIDUALLY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY ALLEGED CLASS ACTION, COLLECTIVE ACTION, OR OTHER REPRESENTATIVE PROCEEDING. THIS WAIVER EXTENDS TO CLASS ARBITRATION, AND, UNLESS OTHERWISE AGREED UPON, THE ARBITRATOR MAY NOT CONSOLIDATE CLAIMS FROM MULTIPLE INDIVIDUALS. BY ACCEPTING THESE TERMS, YOU AND LAWYER DESK ACKNOWLEDGE THAT YOU ARE EACH FORFEITING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY FORM OF CLASS ACTION, COLLECTIVE ACTION, OR OTHER REPRESENTATIVE PROCEEDING.
+
+    I. Copyright Notices
+We respect content owner rights, and it is our policy to respond to alleged infringement notices that comply with the Copyright Act, 1999 of India.
+
+Copyright protection is bestowed upon original works of authorship that are preserved in a tangible medium of expression, encompassing literary, dramatic, musical, artistic, and specific other intellectual creations. However, this safeguard does not encompass ideas, operational methodologies, or factual information per se. As a user of our Services, if you suspect that any content hosted on our platform violates your copyrighted material, you are required to furnish ample evidence to support your claim of copyright ownership. Such evidence may comprise a copyright registration certificate or similar documentation unequivocally establishing your status as the rightful copyright proprietor.
+
+Upon receipt of a valid infringement notification, we undertake to expeditiously remove the purportedly infringing material within 60 days in accordance with copyright regulations. We kindly urge you to abstain from initiating any legal proceedings during this interim as we diligently investigate and address your claim. Should we fail to eliminate the infringing content within the stipulated 60-day timeframe, you reserve the right to pursue additional legal remedies thereafter. By availing yourself of our services, you implicitly consent to adhere to this procedure and recognize the reasonableness of the timeframe allocated for resolving copyright issues.
+
+If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via our Service, please notify our copyright agent as set forth below. For your complaint to be valid, you must provide all of the following information in writing:
+
+(a) An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
+
+(b) Identification of the copyrighted work that you claim has been infringed;
+
+(c) Identification of the material that is claimed to be infringing and where it is located on our Service;
+
+(d) Information reasonably sufficient to permit us to contact you, such as your address, telephone number, and email address;
+
+(e) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
+
+(f) A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
+
+The above information must be submitted to us using the following contact information:
+
+Lawyerdesk Advocacy Pvt Ltd.
+
+Address: Lawyerdesk Advocacy Pvt Ltd. #32-20-20, Captain Ramarao Jn, Allipuram, Visakhapatnam, Andhra Pradesh 530002 India
+
+Email: copyright@lawyerdesk.ai
+
+UNDER INDIAN LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS' FEES.
+
+Please note that the preceding requirements do not constitute legal advice. In accordance with the copyright act, 1999, and other applicable law, we have adopted a policy of terminating, in appropriate circumstances, users who are deemed to be repeat infringers. We may also, at our sole discretion, limit access to our service and/or terminate our service accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+
+    J. Publicity Rights
+We may identify you as a User in our promotional materials. We will promptly stop doing so upon your request sent to support@lawyerdesk.ai.
+
+    K. Entire Agreement. 
+These terms, together with any amendments and any additional agreements you may enter into with us in connection with our service, will constitute the entire agreement between you and us concerning our service. None of our employees or representatives are authorized to make any modification or addition to these terms. Any statements or comments made between you and any of our employees or representatives are expressly excluded from these terms and will not apply to you or us or your use of our service. 
+
+    L. Contact. 
+If you have any questions about these Terms, please contact us at support@lawyerdesk.ai. 
